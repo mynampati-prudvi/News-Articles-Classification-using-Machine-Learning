@@ -1,0 +1,17 @@
+Goal:
+Predict create a text classifier that will streamline the process of categorizing news publications. 
+
+
+Business Understanding:
+Classification of news items is based on keywords in the article
+
+Categories/Classes of the outcome are pre-determined (one of Politics, Entertainment, Sports, Technology, Business)
+
+They all are of equal weights from Business standpoint
+
+
+Modeling : 
+Logistic regression,Decision trees,Random Forest,Resampling,Voting classifier
+ 
+Evaluation :
+Accuracy,AUC and ROC,Confusion Matrix,Precision,Recall,F1 Score
